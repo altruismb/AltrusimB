@@ -1,0 +1,6 @@
+git init
+git remote add origin {REMOTE_URL}
+git pull origin master
+git branch --set-upstream-to=origin/master master
+git pull
+
